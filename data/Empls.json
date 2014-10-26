@@ -1,0 +1,77 @@
+{"employees":    
+[   
+       {
+             "FirstName"    : "Alexei",
+             "LastName"     : "Lukianenko",
+             "Department"   : "Development",
+             "Salary"       : 1500,
+             "Manager"      : true,
+             "Certificate"  : true,
+             "Rate"         : 1.05 
+       }, 
+       {
+             "FirstName"    : "Helen",
+             "LastName"     : "Lukianenko",
+             "Department"   : "Research",
+             "Salary"       : 1800.25,
+             "Manager"      : true,
+             "Certificate"  : true,
+             "Rate"         : 1.8 
+       }, 
+       {
+             "FirstName"    : "Maks",
+             "LastName"     : "Orehov",
+             "Department"   : "Support",
+             "Salary"       : 1750,
+             "Manager"      : true,
+             "Certificate"  : true,
+             "Rate"         : 1.6 
+       }, 
+       {
+             "FirstName"    : "Piter",
+             "LastName"     : "Ivanov",
+             "Department"   : "Development",
+             "Salary"       : 1400.45,
+             "Manager"      : false,
+             "Certificate"  : true,
+             "Rate"         : 0.96 
+       }, 
+       {
+             "FirstName"    : "Nikol",
+             "LastName"     : "Adams",
+             "Department"   : "Research",
+             "Salary"       : 1100,
+             "Manager"      : true,
+             "Certificate"  : false,
+             "Rate"         : 1.35 
+       }, 
+       {
+             "FirstName"    : "Vasiliy",
+             "LastName"     : "Urbanov",
+             "Department"   : "Research",
+             "Salary"       : 1150,
+             "Manager"      : false,
+             "Certificate"  : false,
+             "Rate"         : -0.8 
+       }, 
+       {
+             "FirstName"    : "Mike",
+             "LastName"     : "Bolton",
+             "Department"   : "Support",
+             "Salary"       : 1850,
+             "Manager"      : false,
+             "Certificate"  : true,
+             "Rate"         : 1.01 
+       }, 
+       {
+             "FirstName"    : "Jordan",
+             "LastName"     : "Sidorov",
+             "Department"   : "Zavhoz",
+             "Salary"       : 1500,
+             "Manager"      : true,
+             "Certificate"  : false,
+             "Rate"         : -0.56 
+       } 
+
+                  
+]}
