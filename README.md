@@ -1,7 +1,7 @@
-Yandex_Test
+Yandex
 ===========
 
-Test for Yandex, dynamic table
+Dynamic table
 
 Динамическая таблица подгружается через AJAX запрос.
 
